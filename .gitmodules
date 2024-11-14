@@ -1,3 +1,9 @@
 [submodule "src/core"]
 	path = src/core
 	url = https://github.com/HeiMao-BaiMao/krkrz.git
+[submodule "src/plugins/win32/tp_stub"]
+	path = src/plugins/win32/tp_stub
+	url = https://github.com/HeiMao-BaiMao/tp_stub.git
+[submodule "src/plugins/win32/ncbind"]
+	path = src/plugins/win32/ncbind
+	url = https://github.com/HeiMao-BaiMao/ncbind.git
