@@ -16,3 +16,6 @@
 [submodule "src/plugins/win32/windowEx"]
 	path = src/plugins/win32/windowEx
 	url = https://github.com/HeiMao-BaiMao/windowEx.git
+[submodule "src/plugins/win32/csvParser"]
+	path = src/plugins/win32/csvParser
+	url = https://github.com/HeiMao-BaiMao/csvParser.git
