@@ -10,3 +10,6 @@
 [submodule "src/plugins/win32/KAGParser"]
 	path = src/plugins/win32/KAGParser
 	url = https://github.com/HeiMao-BaiMao/KAGParser.git
+[submodule "src/plugins/win32/menu"]
+	path = src/plugins/win32/menu
+	url = https://github.com/HeiMao-BaiMao/menu.git
