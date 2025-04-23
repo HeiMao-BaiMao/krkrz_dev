@@ -160,3 +160,6 @@
 [submodule "src/plugins/simplebinder"]
 	path = src/plugins/simplebinder
 	url = ../../wamsoft/simplebinder.git
+[submodule "src/plugins/ExtKAGParser"]
+	path = src/plugins/ExtKAGParser
+	url = https://github.com/HeiMao-BaiMao/ExtKAGParser.git
