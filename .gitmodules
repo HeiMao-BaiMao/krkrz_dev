@@ -166,3 +166,4 @@
 [submodule "script/KAG3_Frozen-Ham"]
 	path = script/KAG3_Frozen-Ham
 	url = https://github.com/HeiMao-BaiMao/kag3_frozen-ham.git
+	branch = krkr-z
