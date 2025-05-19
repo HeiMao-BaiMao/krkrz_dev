@@ -167,3 +167,6 @@
 	path = script/KAG3_Frozen-Ham
 	url = https://github.com/HeiMao-BaiMao/kag3_frozen-ham.git
 	branch = krkr-z
+[submodule "src/plugins/KrkrVoice"]
+	path = src/plugins/KrkrVoice
+	url = https://github.com/HeiMao-BaiMao/krkr_voice.git
