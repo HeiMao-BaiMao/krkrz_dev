@@ -10,6 +10,7 @@ add_subdirectory(ncbind)
 
 set(PLUGINS
 #KAGParserEx
+KrkrVoice
 ExtKAGParser
 addFont
 binaryStream
