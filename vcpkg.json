@@ -23,6 +23,8 @@
       ]
     },
     "miniaudio",
+    "libvpx",
+    "libwebm",
     {
       "name": "poco",
       "$comment": "プラグイン用: src/plugins/win32/httpserv"
