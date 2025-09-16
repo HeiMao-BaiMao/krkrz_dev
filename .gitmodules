@@ -27,7 +27,7 @@
 	url = ../../krkrz/debugger.git
 [submodule "src/core"]
 	path = src/core
-	url = ../krkrz.git
+	url = ../krkrz_develop.git
 [submodule "src/plugins/KAGParserEx"]
 	path = src/plugins/KAGParserEx
 	url = ../../wamsoft/KAGParserEx.git
