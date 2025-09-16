@@ -2,8 +2,6 @@
   "name": "krkrz",
   "version": "2.0.0",
   "dependencies": [
-    "egl-registry",
-    "opengl-registry",
     "glm",
     "libogg",
     "libpng",
@@ -14,6 +12,8 @@
     "picojson",
     "libjpeg-turbo",
     "zlib",
+    "plog",
+    "fmt",
     {
       "name": "freetype",
       "features": [
@@ -22,6 +22,7 @@
         "bzip2"
       ]
     },
+    "miniaudio",
     {
       "name": "poco",
       "$comment": "プラグイン用: src/plugins/win32/httpserv"
